@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("proyecto pacman parcial 3\n");
+    printf("proyecto pacman sofia\n");
     return 0;
 }
