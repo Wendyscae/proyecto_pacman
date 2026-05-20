@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 /* parte dos de pac man */
 #include <allegro.h> 
 
@@ -85,3 +86,9 @@ int main(){
 	
 }
 END OF MAIN();
+=======
+int main() {
+    printf("proyecto pacman sofia\n");
+    return 0;
+}
+>>>>>>> c6b042e8e63013021f115aa4e58bb26f89682bbc
