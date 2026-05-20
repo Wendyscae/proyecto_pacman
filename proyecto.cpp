@@ -1,9 +1,4 @@
-#include <stdio.h>
 
-int main() {
-    printf("proyecto pacman parcial 3 zitlali\n");
-    return 0;
-}
 /* parte dos de pac man */
 #include <allegro.h> 
 
