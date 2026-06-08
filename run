@@ -1,0 +1,4 @@
+clang++ -std=c++11 \
+proyecto.cpp \
+-o pacman.game -I/opt/homebrew/include -L/opt/homebrew/lib -lallegro -lallegro_main -lallegro_image
+./pacman.game
